@@ -1,0 +1,12 @@
+RC_ENGINE/
+│
+├── core/
+├── tests/
+├── output/
+├── data/
+├── docs/
+│
+├── main.py
+├── requirements.txt
+├── README.md
+└── .gitignore

@@ -1,0 +1,8 @@
+core/
+│
+├── __init__.py
+├── participant.py
+├── tree_engine.py
+├── excel_export.py
+├── validator.py
+└── company_engine.py
